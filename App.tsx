@@ -47,7 +47,7 @@ function App(): JSX.Element {
           <FastImage
             style={{width: 200, height: 200}}
             source={{
-              uri: 'https://assets-eu-ew1-prod.payzilch.com/retailers/YorkTest-logo.jpg?r=1678099875',
+              uri: 'https://assets-eu-ew1-prod.payzilch.com/retailers/Amazon-landscape.png?r=1657776467',
             }}
           />
         </View>
